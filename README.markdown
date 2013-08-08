@@ -1,0 +1,1 @@
+ <!-- WordPress on Heroku: Up and Running! - http://decielo.com/articles/350/wordpress-on-heroku-up-and-running - Step 2 -->
